@@ -1,7 +1,8 @@
 testfunc <- function(a,b){
   test <- a+b
   print(test)
-  print("Heellooo Goooorrrlsss")
+  print("Heellooowwww Goooorrrlsss!!!!!!!!!!!!!!!!!!!!")
+  print("Hab ich noch Rechte?")
   print("Test")
 }
 
