@@ -5,6 +5,7 @@ testfunc <- function(a,b){
   print("Hab ich noch Rechte?")
   print("Test")
   print("Test2")
+  print("Test3")
 }
 
 testfunc(1,2)
